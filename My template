@@ -5,7 +5,6 @@ Error Code but Still Run
 #include <bits/stdc++.h>
 #define ll long long
 #define ull unsigned long long
-#define cout print
 #define endl '\n'
 #define YES cout << "YES\n"
 #define NO cout << "NO\n"
@@ -24,7 +23,7 @@ int main() {
         freopen("codeinput.inp", "r", stdin);
         freopen("codeout.out", "w", stdout);
     }
-    print<<"HELLO";
+    cout<<"Hello World!";
 
     solve();
 
