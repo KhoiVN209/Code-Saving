@@ -1,0 +1,32 @@
+/*Khoi Made in Viet Nam
+Tran Dai Nghia High School For The Gifted --- A Honors class in Informatics
+Error Code but Still Run
+*/
+#include <bits/stdc++.h>
+#define ll long long
+#define ull unsigned long long
+#define cout print
+#define endl '\n'
+#define YES cout << "YES\n"
+#define NO cout << "NO\n"
+#define FastIO ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
+
+using namespace std;
+
+void solve() {
+
+}
+
+int main() {
+    FastIO
+
+    if (fopen("codeinput.inp", "r")) {
+        freopen("codeinput.inp", "r", stdin);
+        freopen("codeout.out", "w", stdout);
+    }
+    print<<"HELLO";
+
+    solve();
+
+    return 0;
+}
